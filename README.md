@@ -2,7 +2,7 @@
 
 > 基于 [langchain-ai/langchain](https://github.com/langchain-ai/langchain-nextjs-template) 项目学习，原项目 [README](./README-EN.MD)。
 
-已跑通 chat、RAG、RAG-Agents
+已跑通 chat、RAG、RAG-Agents，成功引入使用的相关代码 [commit](https://github.com/Gijela/CR-Mentor/commit/1f71b6f69e708c7eb61fdc5a2ee42633042fbb11)
 
 ## 1. 用到的环境变量
 
